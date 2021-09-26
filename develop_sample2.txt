@@ -1,2 +1,1 @@
-for git revert
 sample file2 for develop
